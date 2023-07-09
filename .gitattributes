@@ -5,9 +5,10 @@
 *.html diff=html
 *.md diff=markdown
 *.php diff=php
-*.js linguist-language=php
 *.js linguist-detectable=false
 *.css linguist-detectable=false
+*.SCSS linguist-detectable=false
+*.HTML linguist-detectable=false
 
 /.github export-ignore
 CHANGELOG.md export-ignore
