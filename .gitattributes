@@ -7,6 +7,7 @@
 *.php diff=php
 *.js linguist-language=laravel
 *.js linguist-detectable=false
+*.php linguist-detectable=true
 
 /.github export-ignore
 CHANGELOG.md export-ignore
