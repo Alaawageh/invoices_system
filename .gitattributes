@@ -7,8 +7,8 @@
 *.php diff=php
 *.js linguist-detectable=false
 *.css linguist-detectable=false
-*.SCSS linguist-detectable=false
-*.HTML linguist-detectable=false
+*.scss linguist-detectable=false
+*.html linguist-detectable=false
 
 /.github export-ignore
 CHANGELOG.md export-ignore
